@@ -1,3 +1,4 @@
 name: Sunshine & Technology
 markdown: kramdown
 permalink: /:title
+excerpt_separator: <!--more-->
