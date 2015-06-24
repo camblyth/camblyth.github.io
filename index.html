@@ -2,12 +2,17 @@
 layout: default
 ---
 
+{% assign minutes = content | number_of_words | divided_by: 180 %}
+{% if minutes == 0 %}
+{% assign minutes = 1 %}
+{% endif %}
+
 <div class="home">
 
   <div class="posts">
     {% for post in paginator.posts %}
       <div class="post">
-        <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</p>
+        <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }} {{ minutes }} minute read</p>
         <a href="{{ post.url | prepend: site.baseurl }}" class="post-link"><h3 class="h2 post-title">{{ post.title }}</h3></a>
         <p class="post-excerpt">
             {{ post.excerpt }}
