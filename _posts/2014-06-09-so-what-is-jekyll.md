@@ -13,5 +13,7 @@ language and has builtin [Markdown](http://daringfireball.net/projects/markdown/
 and [Textile](http://en.wikipedia.org/wiki/Textile_(markup_language)) support.
 
 It also ties in nicely to [Github Pages](https://pages.github.com/).
+
 ----
+
 Learn more about Jekyll on their [website](http://jekyllrb.com/).
