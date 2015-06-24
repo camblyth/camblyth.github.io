@@ -52,4 +52,4 @@ permalink:    :title
 paginate:     5
 sass:
   compressed: true
-excerpt_separator: ----
+excerpt_separator: <!--more-->
