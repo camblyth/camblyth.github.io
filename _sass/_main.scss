@@ -308,7 +308,7 @@ h5,
 h6,
 .h6 {
   font-family: "Lato", 'Helvetica Neue', Helvetica, sans-serif;
-  font-weight: 900;
+  font-weight: 800;
   line-height: 1.2;
   margin: 1em 0 0.5em;
 }
@@ -574,4 +574,12 @@ Copyright (c) 2014 Daniel Eden
 .fade-in-down {
   -webkit-animation-name: fadeInDown;
           animation-name: fadeInDown;
+}
+
+.header-slug {
+  font-family: "Lato", 'Helvetica Neue', Helvetica, sans-serif;
+  font-weight: 100;
+  line-height: 1.2;
+  margin: 1em 0 0.5em;
+  font-size: 1.05em;
 }
