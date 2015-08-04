@@ -304,14 +304,20 @@ h3,
 h4,
 .h4,
 h5,
-.h5,
-h6,
-.h6 {
+.h5, {
   font-family: 'Helvetica Neue', Helvetica, sans-serif;
   font-weight: 300;
   line-height: 1.2;
   margin: 1em 0 0.5em;
 }
+
+h6,
+.h6 {
+    font-family: 'Helvetica Neue', Helvetica, sans-serif;
+    font-weight: 600;
+    line-height: 1.0;
+   margin: 1em 0 0.5em;
+  }
 
 .social-icons {
     padding: 0.5em 0 0 0;
@@ -363,7 +369,7 @@ h6,
   h4 {
     font-size: 1.150rem;
   }
-
+  
   .p,
   p,
   li {
