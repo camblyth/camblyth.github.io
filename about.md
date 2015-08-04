@@ -4,16 +4,8 @@ title: About Pixyll
 permalink: /about/
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+Sunshine and Technology is an [excellent song](https://www.youtube.com/watch?v=uDcidHlml_8) by The Smith Street Band.
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
+Sunshine *&* Technology is a site written by [Cameron Blyth](https://twitter.com/camblyth). I write here about technology. General stuff on Apple with a focus on video production and productivity.
 
-Thanks to the following:
-
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Solarized](http://ethanschoonover.com/solarized)
+Hit me up on Twitter [@camblyth](https://twitter.com/camblyth)
