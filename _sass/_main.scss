@@ -14,7 +14,7 @@
 */
 
 body {
-  font-family: "Merriweather", "PT Serif", Georgia, "Times New Roman", serif;
+  font-family: Georgia, "Times New Roman", serif;
 }
 
 html, body {
@@ -177,7 +177,7 @@ table {
 .pagination,
 .button {
   font-size: 1rem;
-  font-family: 'Lato', 'Helvetica Neue', Helvetica, sans-serif;
+  font-family: 'Helvetica Neue', Helvetica, sans-serif;
   font-weight: 300;
   text-align: center;
 }
@@ -240,7 +240,7 @@ table {
 }
 
 form {
-  font-family: 'Lato', 'Helvetica Neue', Helvetica, sans-serif;
+  font-family: Helvetica Neue', Helvetica, sans-serif;
   font-weight: 300;
   font-size: 1rem;
 }
@@ -261,7 +261,7 @@ abbr {
 }
 
 pre, code {
-  font-family: Menlo, Monaco, "Courier New", monospace
+  font-family: Monaco, "Courier New", monospace
 }
 
 code {
@@ -308,7 +308,7 @@ h5,
 h6,
 .h6 {
   font-family: "Lato", 'Helvetica Neue', Helvetica, sans-serif;
-  font-weight: 800;
+  font-weight: 300;
   line-height: 1.2;
   margin: 1em 0 0.5em;
 }
@@ -346,21 +346,25 @@ h6,
   .h1,
   h1 {
     font-size: 3.250rem;
+    font-weight: 600;
   }
 
   .h2,
   h2 {
     font-size: 2.298rem;
+    font-weight: 600;
   }
 
   .h3,
   h3 {
     font-size: 1.625rem;
+    font-weight: 600;
   }
 
   .h4,
   h4 {
     font-size: 1.150rem;
+    font-weight: 600;
   }
 
   .p,
